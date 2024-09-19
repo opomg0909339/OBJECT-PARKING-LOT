@@ -1,6 +1,6 @@
 This object is for XAMPP to use
-1.Downlord the XAMPP
-2.Put file type .PHP into htdocs
-3.Imput the car.sql
+</br>1.Downlord the XAMPP
+</br>2.Put file type .PHP into htdocs
+</br>3.Imput the car.sql
 
-The camera setting is for Raspberry Pi camera
+</br>The camera setting is for Raspberry Pi camera
